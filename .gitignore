@@ -1,0 +1,6 @@
+mp_env/
+dataset/
+cropped_dataset/
+dataset_split/
+__pycache__/
+*.h5
